@@ -27,3 +27,8 @@ foreach ($result as $row) {
 }
 ```
 
+Bez doctrine query collection:
+![bez](https://pichoster.net/images/2017/06/08/d5be600745c9038ab7cdb34f8fd18748.png)
+
+s doctrine query collection:
+![s](https://pichoster.net/images/2017/06/08/93d473ca11aa5f740d03ef969e72f97d.png)
